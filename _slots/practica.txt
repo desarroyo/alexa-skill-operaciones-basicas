@@ -1,0 +1,3 @@
+avanzado,3,avanzada,dificil,nivel dios,nivel pro,pro
+intermedio,2,medio,intermedia,normal,más o menos
+básico,1,básica,facilito,sencillo,fácil

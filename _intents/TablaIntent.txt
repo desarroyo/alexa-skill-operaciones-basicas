@@ -1,0 +1,8 @@
+la del {numero}
+la tabla del {numero}
+tabla del {numero}
+dime la tabla del {numero}
+cual es la tabla del {numero}
+quiero practicar la tabla del {numero}
+quiero la tabla del {numero}
+practicar la tabla del {numero}

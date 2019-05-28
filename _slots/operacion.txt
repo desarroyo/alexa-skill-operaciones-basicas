@@ -1,0 +1,4 @@
+dividir,3,dividido entre,dividido por,dividido,entre,division
+restar,2,substraccion,substraer,resta,menos
+sumar,1,mas,más,agrega,suma
+multiplicar,0,multiplicado por,multiplica,por

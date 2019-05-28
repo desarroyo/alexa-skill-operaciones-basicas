@@ -1,0 +1,9 @@
+no se la respuesta
+no lo se
+ni idea
+siguiente
+no se
+es {numero}
+la respuesta es {numero}
+el {numero}
+{numero}

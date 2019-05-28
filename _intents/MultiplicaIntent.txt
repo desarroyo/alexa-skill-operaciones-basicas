@@ -1,0 +1,5 @@
+el número {numero_uno} {operacion} {numero_dos}
+el número {numero_uno} {operacion} el número  {numero_dos}
+cuanto es {numero_uno} {operacion} {numero_dos}
+cuanto es el número {numero_uno} {operacion} el número  {numero_dos}
+{numero_uno} {operacion} {numero_dos}
