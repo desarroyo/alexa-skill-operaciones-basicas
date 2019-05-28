@@ -5,7 +5,7 @@
 Aprende y practica operaciones básicas matemáticas como sumas, restas, multiplicaciones y divisiones.
 Utiliza el modo de práctica para probar tus habilidades.
 
-![alexa-topicos-calculo](alexa-operaciones-basicas.JPG)
+![alexa-topicos-calculo](http://vakito.com/mti/assets/alexa-operaciones-basicas.JPG)
 
 
 
